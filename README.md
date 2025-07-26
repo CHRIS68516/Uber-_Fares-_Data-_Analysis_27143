@@ -1,5 +1,5 @@
 <p align="center">
- ## Uber Fares Data Analysis Project
+ <h1>Uber Fares Data Analysis Project</h1>
   </p>
 This project was carried out by a student analyst to examine Uber ride data and uncover meaningful patterns in fare amounts, ride durations, and travel locations. Using Python for data cleaning and preparation, and Power BI for building visualizations, I manually explored and transformed the dataset to gain a clear understanding of ride behavior across different times of day, days of the week, and distances traveled. Feature engineering was done to extract relevant time-based attributes and support deeper analysis.
 
