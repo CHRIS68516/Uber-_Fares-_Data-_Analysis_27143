@@ -38,8 +38,16 @@ Example:
 
 !<img width="1173" height="765" alt="Visualizing the Relationship Between Fare Amount and Trip Distance" src="https://github.com/user-attachments/assets/ae44dc4c-8697-4434-8965-fdde822aed9a" />
 
+<img width="1171" height="726" alt="3" src="https://github.com/user-attachments/assets/81fa00a9-8935-4277-98ea-258771b2e821" />
 
----
+<img width="1170" height="712" alt="4" src="https://github.com/user-attachments/assets/95fd8037-abef-446e-9e25-2f733916e04b" />
+
+
+
+<img width="1184" height="662" alt="5" src="https://github.com/user-attachments/assets/04283324-3ffc-4f3e-a4db-01043a109aca" />
+
+
+<img width="1207" height="739" alt="6" src="https://github.com/user-attachments/assets/d33c9c62-89b5-4941-be23-94c2602866e0" />
 
 *Report prepared by [Your Name]*  
 *Date: July 2025*
