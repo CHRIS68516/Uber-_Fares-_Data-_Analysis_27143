@@ -10,3 +10,12 @@ With the cleaned and enhanced data, I created interactive dashboards in Power BI
 ## How to Create a CSV File in Python Using Pandas
 
 <img width="1395" height="754" alt="How to Create a CSV File in Python Using Pandas" src="https://github.com/user-attachments/assets/463a457c-d2ea-444f-91cc-a764ca528dd0" />
+
+##Loading and Previewing Uber Ride Data Using Pandas in Python
+
+<img width="1152" height="541" alt="Loading and Previewing Uber Ride Data Using Pandas in Python" src="https://github.com/user-attachments/assets/d0a69754-fa41-4478-b52b-5be323a2ea21" />
+
+
+## Calculating Trip Distance Using Geopy and Coordinate Validation
+
+<img width="1152" height="541" alt="Loading and Previewing Uber Ride Data Using Pandas in Python" src="https://github.com/user-attachments/assets/b813916e-7b68-4c23-b4e5-b3b14cff4008" />
