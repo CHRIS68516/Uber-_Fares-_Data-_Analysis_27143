@@ -4,6 +4,13 @@
 - Dataset downloaded from [Kaggle Uber Fares Dataset](https://www.kaggle.com/datasets)
 - Contains ride data with columns such as `fare_amount`, `pickup_datetime`, `pickup_latitude`, `pickup_longitude`, and more.
 
+# Introduction
+This report presents an exploratory data analysis (EDA) of Uber fare data collected in New York City. The main goal is to uncover trends and patterns in ride fares, distances, ride durations, and their relationships with variables such as time of day, passenger count, and simulated weather conditions.
+
+By cleaning, transforming, and visualizing the dataset, we aim to derive insights that could help understand pricing behavior, peak travel hours, and factors influencing fare variation. The results of this analysis can be useful for improving urban transportation services and informing ride pricing strategies.
+
+
+
 ## 2. Data Cleaning Methodology
 - Removed rows with missing or invalid values
 - Converted pickup datetime strings to datetime objects
