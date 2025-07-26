@@ -7,3 +7,4 @@ This project was carried out by a student analyst to examine Uber ride data and 
 With the cleaned and enhanced data, I created interactive dashboards in Power BI to visualize fare distributions, detect peak hours, and analyze geographic patterns in ride activity. The findings from this human-led analysis aim to support smarter business decisions in areas like pricing strategy, driver allocation, and customer satisfaction. This project highlights how data science skills can be applied by individuals to solve real-world problems using structured data and visual storytellin
 
 
+## How to Create a CSV File in Python Using Pandas
