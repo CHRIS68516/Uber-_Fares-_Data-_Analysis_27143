@@ -126,7 +126,73 @@ Export: Saves the data to a CSV file nyc_weather.csv for import into Power BI or
 
 <img width="1228" height="825" alt="image" src="https://github.com/user-attachments/assets/5b757555-de49-475e-9e43-cc68e8980926" /><br><br>
 
-### POWER BI ANALYSIS
+### Uber Fares Data Analysis and Visualization Report
+
+
+# Project Overview & Dataset Description
+
+Introduces the dataset, project goal, and data sources.
+
+<img width="1441" height="695" alt="bi1" src="https://github.com/user-attachments/assets/bdeb9a6d-d56f-4b5b-a57b-c9a6acca268c" />
+
+# Data Cleaning and Preparation
+
+Explains the methodology for removing missing/outlier data, datetime conversion, and distance calculation.
+
+<img width="722" height="468" alt="image" src="https://github.com/user-attachments/assets/e48eaca8-59f4-4f6d-8b2d-56621a7d60f6" />
+
+ # Feature Engineering
+
+Describes new variables like hour, weekday, peak_time, and encoding techniques.
+
+<img width="1309" height="645" alt="image" src="https://github.com/user-attachments/assets/8158eec4-6d2d-4a53-8709-9fe602b3019c" />
+
+# Fare Distribution Analysis
+
+Shows histogram, boxplot, and violin plot of fare amount distribution.
+
+ <img width="885" height="468" alt="image" src="https://github.com/user-attachments/assets/c224d9fa-f2fc-4edf-95df-61d55ca7f0af" />
+
+ <img width="566" height="403" alt="image" src="https://github.com/user-attachments/assets/4c850099-f92b-4ade-a631-f300ade22474" />
+
+
+# Fare vs Distance
+
+Displays scatterplot and regression line showing how distance affects fare.
+
+<img width="656" height="468" alt="image" src="https://github.com/user-attachments/assets/24e4f5b6-7cd1-4870-bb27-adcbc3079ff5" />
+
+
+# Temporal Analysis
+
+Visualizes fare amount trends across hours, days, and weekdays.
+
+<img width="1084" height="591" alt="image" src="https://github.com/user-attachments/assets/43b0a038-5484-4700-af3f-5d8e67ebe256" />
+
+
+# Passenger Count Analysis
+
+Boxplots showing relationship between passenger count, fare amount, and distance.
+
+<img width="591" height="414" alt="image" src="https://github.com/user-attachments/assets/d75793e9-518b-4a0a-b99b-7bba220cfd0f" />
+
+
+# Weather & Fare Trends (if included)
+
+Analyzes how weather conditions or temperature affect fare (optional).
+
+<img width="948" height="530" alt="image" src="https://github.com/user-attachments/assets/18495da8-a631-4155-9112-556d3a642446" />
+
+# Key Insights & Summary
+
+Summarizes main findings and correlations.
+
+<img width="1028" height="607" alt="image" src="https://github.com/user-attachments/assets/8f08d4df-43e3-43fc-a9d3-8c0e9ccabeaa" />
+
+# Final dashboard  Uber Fares Data Analysis and Visualization Report
+
+<img width="1576" height="721" alt="dashboard" src="https://github.com/user-attachments/assets/e05e5548-416c-4bbf-86f3-186bca6e6b7f" />
+
 
 
 
