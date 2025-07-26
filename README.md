@@ -20,3 +20,13 @@ With the cleaned and enhanced data, I created interactive dashboards in Power BI
 
 <img width="1158" height="646" alt="Calculating Trip Distance Using Geopy and Coordinate Validation" src="https://github.com/user-attachments/assets/f88b6d7e-9708-4b68-8c41-d3951b18f122" />
 
+## Visualizing the Relationship Between Fare Amount and Trip Distance
+
+<img width="1173" height="765" alt="Visualizing the Relationship Between Fare Amount and Trip Distance" src="https://github.com/user-attachments/assets/e0a93f08-bcc5-44f6-952f-2af48a68f2b2" />
+
+## Importing Statsmodels Library for Statistical Modeling
+
+This line imports the statsmodels library (commonly used as sm), which provides classes and functions for estimating and analyzing many different statistical models (like linear regression, time series models, etc.).
+
+<img width="1186" height="406" alt="importing" src="https://github.com/user-attachments/assets/ec1e0061-67bd-42fe-a865-7c66383d9269" />
+
