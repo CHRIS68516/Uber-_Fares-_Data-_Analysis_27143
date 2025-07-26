@@ -8,3 +8,5 @@ With the cleaned and enhanced data, I created interactive dashboards in Power BI
 
 
 ## How to Create a CSV File in Python Using Pandas
+
+<img width="1395" height="754" alt="How to Create a CSV File in Python Using Pandas" src="https://github.com/user-attachments/assets/463a457c-d2ea-444f-91cc-a764ca528dd0" />
