@@ -11,31 +11,33 @@ By cleaning, transforming, and visualizing the dataset, we aim to derive insight
 
 
 
-## 2. Data Cleaning Methodology
-- Removed rows with missing or invalid values
-- Converted pickup datetime strings to datetime objects
-- Calculated trip distance using pickup and dropoff coordinates
-- Detected and handled outliers using the IQR method
-
 ## 3. Feature Engineering
-- Extracted hour, day, and weekday from pickup datetime
-- Created peak and off-peak time indicators
-- Encoded categorical variables like weekday and peak time
+Extracted time-based features such as hour, day, and weekday from the pickup timestamp.
+
+Created new categorical features to classify peak vs. off-peak ride times.
+
+Encoded categorical variables like weekday_name and peak_time for modeling and visualization.
 
 ## 4. Exploratory Data Analysis (EDA)
-- Visualized fare distribution with histograms and boxplots
-- Analyzed relationship between fare amount and distance traveled
-- Examined fare patterns by hour of day and passenger count
+Visualized fare distribution using histograms and boxplots to detect skewness and outliers.
+
+Explored the relationship between distance traveled and fare amount using scatter plots and regression lines.
+
+Analyzed fare trends by hour of day, weekday, and passenger count to uncover demand patterns.
 
 ## 5. Key Insights
-- Fares generally increase with distance traveled
-- Peak hours show higher fare amounts, possibly due to surge pricing
-- Passenger count has little correlation with fare amount or distance
+Fare amounts increase with distance, showing a strong positive correlation.
+
+Higher fares are observed during peak hours, suggesting dynamic pricing or increased demand.
+
+Passenger count shows minimal impact on both fare amount and trip distance.
 
 ## 6. Conclusion and Recommendations
-- Pricing strategies should consider time-of-day and distance trends
-- Further analysis with real weather data could improve understanding of demand fluctuations
+Uber’s fare pricing appears to be strongly influenced by distance and time of day.
 
+Incorporating real-time weather data could further enhance demand prediction models.
+
+Future work could include clustering locations, predicting fare amounts, or building a fare recommendation system.
 ---
 
 ### Images and Visualizations
