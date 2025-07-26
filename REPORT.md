@@ -36,7 +36,8 @@
 
 Example:
 
-![Fare Distribution](images/fare_distribution.png)
+!<img width="1173" height="765" alt="Visualizing the Relationship Between Fare Amount and Trip Distance" src="https://github.com/user-attachments/assets/ae44dc4c-8697-4434-8965-fdde822aed9a" />
+
 
 ---
 
