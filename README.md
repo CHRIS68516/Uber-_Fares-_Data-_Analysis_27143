@@ -124,7 +124,7 @@ Export: Saves the data to a CSV file nyc_weather.csv for import into Power BI or
 
 ## Adding Simulated Weather Data to Uber Fares Dataset
 
-<img width="1228" height="825" alt="image" src="https://github.com/user-attachments/assets/5b757555-de49-475e-9e43-cc68e8980926" />
+<img width="1228" height="825" alt="image" src="https://github.com/user-attachments/assets/5b757555-de49-475e-9e43-cc68e8980926" /><br><br>
 
 ### POWER BI ANALYSIS
 
