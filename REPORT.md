@@ -58,5 +58,26 @@ Example:
 
 <img width="1207" height="739" alt="6" src="https://github.com/user-attachments/assets/d33c9c62-89b5-4941-be23-94c2602866e0" />
 
+## Report analysis of Power Bi
+
+<img width="1441" height="695" alt="image" src="https://github.com/user-attachments/assets/48cecb55-e9bf-4b62-8c3c-ace4062a2cea" />
+
+<img width="1588" height="748" alt="image" src="https://github.com/user-attachments/assets/f14637e8-7dcc-48d5-a060-2c2341a0f41a" />
+
+<img width="1594" height="734" alt="image" src="https://github.com/user-attachments/assets/1c559cf8-128b-47f5-bd92-4631bd337631" />
+
+<img width="1594" height="741" alt="image" src="https://github.com/user-attachments/assets/1b87e68b-83bc-4573-94d2-17de0c5398da" />
+
+<img width="1340" height="785" alt="bi5" src="https://github.com/user-attachments/assets/3640c912-ea94-4d54-aa29-9eec0d510839" />
+
+<img width="1592" height="706" alt="image" src="https://github.com/user-attachments/assets/7ab27d5f-c455-4ae9-a182-cdd7f804fa11" />
+
+<img width="1592" height="761" alt="image" src="https://github.com/user-attachments/assets/07d2758f-39a1-4865-8708-99d820b459b0" />
+
+<img width="1600" height="717" alt="image" src="https://github.com/user-attachments/assets/473ec1ed-5a2c-4561-9beb-6fb1a7d5bc10" />
+
+<img width="1576" height="721" alt="image" src="https://github.com/user-attachments/assets/289ee02b-5f6a-4a74-bc93-9f103b95bdcd" />
+
+
 *Report prepared by [Your Name]*  
 *Date: July 2025*
